@@ -1,0 +1,25 @@
+{
+  "name": "rbxlx",
+  "version": "1.0.0",
+  "description": "A .rbxlx file parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jolcos/rbxlx.git"
+  },
+  "author": "Jolcos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jolcos/rbxlx/issues"
+  },
+  "homepage": "https://github.com/Jolcos/rbxlx#readme",
+  "dependencies": {
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security"
+  }
+}
