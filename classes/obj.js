@@ -36,7 +36,7 @@ class Obj {
     getProperty(name) {
         for (var property of this.properties) {
             if (property.name === name) {
-                return property;
+                return property.value;
             }
         }
     }
