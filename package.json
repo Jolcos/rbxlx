@@ -1,6 +1,6 @@
 {
   "name": "rbxlx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A .rbxlx file parser",
   "main": "index.js",
   "scripts": {
